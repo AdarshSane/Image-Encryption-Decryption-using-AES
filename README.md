@@ -62,7 +62,7 @@ The system encrypts image files into encrypted binary `.enc` format and restores
 
 ##
 
-![Encrypted Text](Sample/encyrpted.png)
+![Encrypted Text](Sample/encrypted.png)
 
 ---
 
